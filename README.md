@@ -1,8 +1,8 @@
-# <a href="https://nextjs.org/" title="Next"><img src="./resources/next.png" alt="Next logo" width="30px" height="30px"> Next practice</a>
-> This repo contains code for the next-StyledComponents practice project.
-> https://nextjs.org/
-
-This is a bare Next.js project with minor modifications for practicing purposes
+<a href="https://nextjs.org/" title="Next"><img src="./resources/icons/next.png" alt="Next logo" width="100px" height="100px"></a> 
+# Next Practice Project
+> This repo contains code for the next-StyledComponents practice project.</br>
+> This is a bare Next.js project with minor modifications for practicing purposes</br>
+> You can see the result here: https://cheery-florentine-3b6c32.netlify.app/
 
 ## Getting Started
 

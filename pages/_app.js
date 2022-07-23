@@ -1,7 +1,7 @@
 import Header from './components/Header';
-import { Container } from './components/styles/Container.styled';
+import Container from './components/styles/Container.styled';
 
-export default function MyApp() {
+const MyApp = () => {
   return (
     <>
       <Header />
@@ -10,4 +10,6 @@ export default function MyApp() {
       </Container>
     </>
   );
-}
+};
+
+export default MyApp;

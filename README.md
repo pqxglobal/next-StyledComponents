@@ -1,3 +1,7 @@
+# <a href="https://nextjs.org/" title="Next"><img src="./resources/next.png" alt="Next logo" width="30px" height="30px"> Next practice</a>
+> This repo contains code for the next-StyledComponents practice project.
+> https://nextjs.org/
+
 This is a bare Next.js project with minor modifications for practicing purposes
 
 ## Getting Started

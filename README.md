@@ -1,4 +1,4 @@
-This is a bare Next.js project with minor modifications
+This is a bare Next.js project with minor modifications for practicing purposes
 
 ## Getting Started
 

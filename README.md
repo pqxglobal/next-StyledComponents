@@ -2,7 +2,7 @@
 # Next Practice Project
 > This repo contains code for the next-StyledComponents practice project.</br>
 > This is a bare Next.js project with minor modifications for practicing purposes</br>
-> You can see the result here: https://cheery-florentine-3b6c32.netlify.app/
+> You can see the result here: https://pqxglobal-next-styled-components.netlify.app/
 
 ## Getting Started
 
